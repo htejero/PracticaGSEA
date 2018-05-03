@@ -12,3 +12,6 @@ __Exercises:__
 [Exercise 2](https://www.dropbox.com/sh/ijobebcm6wrjsnu/AAB_rekpAOqyMT0pQTWEV5V9a?dl=0)
 
 
+## GSEA
+
+[gsea-3.0.jar](https://www.dropbox.com/s/r6kwmfkxill5eol/gsea-3.0.jar?dl=0)
